@@ -10,8 +10,9 @@
 #
 supported_metrics:
 - Available Count: mw_ds_available_count
-- In Use Count: mw_ds_in_use_count
-- Timed Out: mw_ds_timed_out
-- Average Get Time: mw_ds_average_get_time
 - Average Creation Time: mw_ds_average_creation_time
+- Average Get Time: mw_ds_average_get_time
+- In Use Count: mw_ds_in_use_count
 - Max Wait Time: mw_ds_max_wait_time
+- Timed Out: mw_ds_timed_out
+

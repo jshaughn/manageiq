@@ -13,3 +13,4 @@ supported_metrics:
 - Message Count: mw_ms_queue_message_count
 - Messages Added: mw_ms_queue_messages_added
 - Scheduled Count: mw_ms_queue_scheduled_count
+

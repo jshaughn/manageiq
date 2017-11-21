@@ -101,7 +101,7 @@ end
 
 group :hawkular, :manageiq_default do
   manageiq_plugin "manageiq-providers-hawkular"
-  gem "hawkular-client",             ">=4.1",   :require => false, :git => "https://github.com/hawkular/hawkular-client-ruby", :branch => "master"
+  gem "hawkular-client",             ">=5.0.0.pre1",   :require => false, :git => "https://github.com/hawkular/hawkular-client-ruby", :branch => "master"
 end
 
 group :kubernetes, :openshift, :manageiq_default do
